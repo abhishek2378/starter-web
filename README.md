@@ -12,3 +12,7 @@ adding in deployment section
 
 ## How to contribute
 
+### Copyright
+
+2014 Git.training
+
