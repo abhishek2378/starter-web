@@ -5,8 +5,10 @@ this is a simple website project
 This is an example file to show different parts of git repository
 
 ## Purpose
+as stated above, the purpose is same
 
 ## Deployment
+adding in deployment section
 
 ## How to contribute
 
