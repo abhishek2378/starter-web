@@ -14,5 +14,6 @@ adding in deployment section
 
 ### Copyright
 
-2014 Git.training
+2014 Git.training no ff example here
+
 
