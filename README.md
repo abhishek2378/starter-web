@@ -11,6 +11,7 @@ as stated above, the purpose is same
 adding in deployment section
 
 ## How to contribute
+fork this repository and then pull for review
 
 ### Copyright
 
